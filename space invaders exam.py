@@ -6,6 +6,8 @@ import random
 
 
 
+
+
 #set up the screen
 wn = turtle.Screen()
 wn.bgcolor("black")
